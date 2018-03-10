@@ -31,5 +31,5 @@ pub enum Node {
     /// Ascending node
     Ascend,
     /// Descending node
-    Descend
+    Descend,
 }
